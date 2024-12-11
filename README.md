@@ -22,3 +22,13 @@ K8s入门教程
 - [节点资源预留](https://www.cnblogs.com/wiseo/p/Allocatable.html)
 - [lens](https://www.cnblogs.com/east4ming/p/17180001.html)
 - [sidecar](https://zhuanlan.zhihu.com/p/645463183)
+
+常见场景补充：
+
+- Docker容器优雅退出  https://mp.weixin.qq.com/s/rXSgXREIus3lkAt-Bi3bsg
+
+- K8s 负载感知调度实践（koordinator & crane）https://mp.weixin.qq.com/s/gRHWU4A6PBesuhCrENQiww
+
+- K8s驱逐场景以及规避方案  https://mp.weixin.qq.com/s/26ilHtof3v-QbQgjM21Oqg
+
+  
